@@ -33,6 +33,22 @@
       "body": "Would rent this dining room table one hundred times over.",
       "productId": "0",
       "id": 2
+    },
+    {
+      "author": "Juan",
+      "star_rating": 3,
+      "headline": "Some review",
+      "body": "So So",
+      "productId": "1",
+      "id": 3
+    },
+    {
+      "author": "Miguel Perez",
+      "star_rating": 5,
+      "headline": "Great Review",
+      "body": "This was a great buy!",
+      "productId": "1",
+      "id": 4
     }
   ]
 }
